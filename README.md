@@ -6,6 +6,8 @@
 ```
 Required Java 17
 
+Default port: 8080
+
 ### API
 #### To create transaction: POST api/transactions
 
